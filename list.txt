@@ -1,0 +1,55 @@
+"Coole" Projekte
+===
+
+// tf so dumm bin ich auch wieder nicht
+[-> Calculator]
+-> Todo list
+-> RECIPE APP
+
+// junge geh mit deiner Netzwerktechnik weg
+-> Text to HTML Generator – Converts text files into web HTML files and stylizes them. Great for making online documentation of standard text documentation.
+-> Port Scanner – Enter an IP address and a port range where the program will then attempt to find open ports on the given computer by connecting to each of them. On any successful connections mark the port as open.
+-> Remote Login – Create a remote desktop style application which can see and control the remote computer (given you have permissions). It may require the use of your own private network and a second computer to test with.
+-> Small Web Server – A simple web server that can serve HTML files that contain Javascript and other forms of non-code executing code. Added complexity would be to try and implement streaming video, create a server-side language, or serve up other stream types.
+-> File Downloader – An application which can download various objects on a page including video streams or all files on a page. Great for pages with a lot of download links.
+-> Online White Board – Create an application which allows you and friends to collaborate on a white board online. Draw pictures, write notes and use various colors to flesh out ideas for projects. For added complexity try building in picture tubes.
+-> Quiz Maker – Make an application which takes various questions form a file, picked randomly, and puts together a quiz for students. Each quiz can be different and then reads a key to grade the quizzes
+
+// Alda wen juckt sicherheit
+-> License System (Let only the people you want use your software, like windows activation keys)
+-> Password generator
+
+// Bro von Dateien hab ich genug
+-> Text Editor – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
+-> File Explorer – Create your own windows explorer program but with added features, better searching, new icons and other views.
+-> File organizer
+-> File converter
+
+// wer kann bitte coden
+-> Your own code editor
+
+// nene besser nd
+-> MEME GENERATOR APP
+-> TYPING PRACTICE
+
+// 1980 oder was
+-> SHELL GAME
+
+// Jooo games sind nice
+-> Chess
+
+// Junge die dudes sind nich echt
+-> Twitter bot
+-> Slack bot
+-> Discord bot
+-> Instagram bot
+
+// Sind ehh alle kacke
+-> Rebuild Facebook
+-> Rebuild Instagram
+-> Rebuild Google Calendar
+-> Rebuild Trello
+
+// Bill Gates oder was
+-> Your own operating system
+-> Credit card validator
