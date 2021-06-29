@@ -9,13 +9,14 @@ const createWindow = () => {
   const mainWindow = new BrowserWindow({
     width: 800,
     height: 600,
+    resizable: false,
     webPreferences: {
       nodeIntegration: true,
       contextIsolation: false
     }
   });
   mainWindow.loadFile(path.join(__dirname, 'index.html'));
-
+  mainWindow.setMenuBarVisibility(false)
 };
 
 app.on('ready', createWindow);
