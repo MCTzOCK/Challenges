@@ -3,7 +3,7 @@
 
 // tf so dumm bin ich auch wieder nicht
 [-> Calculator]
--> Todo list
+[-> Todo list]
 -> RECIPE APP
 
 // junge geh mit deiner Netzwerktechnik weg
