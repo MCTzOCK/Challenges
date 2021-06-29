@@ -34,6 +34,8 @@ function addTask(title, addToJSON) {
     let b = document.createElement('button')
     let t = document.createElement('h3')
 
+    r.id = "task-" + title
+
     r.classList.add('listItem')
     b.classList.add('listItemChange')
     t.classList.add('listItemTitle')
@@ -54,5 +56,5 @@ function addTask(title, addToJSON) {
 
 function deleteTask(button) {
     tasks.splice(tasks.indexOf(button.getAttribute("task-name")), 1)
-    fs.writeFileSync(path.join(__dirname, 'tasks.json'), JSON.stringify(tasks))
+    document.getElementById('list').removeChild(document.getElementById('task-' + button.getAttribute('task-name')))
 }
